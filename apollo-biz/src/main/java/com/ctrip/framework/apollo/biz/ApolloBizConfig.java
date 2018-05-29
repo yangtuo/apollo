@@ -9,4 +9,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackageClasses = ApolloBizConfig.class)
 public class ApolloBizConfig {
 
+
+
 }
